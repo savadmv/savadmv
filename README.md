@@ -1,7 +1,7 @@
-### Hi there 👋
+### People 👋
 
 
-Here are some ideas to get you started:
+Hmm .. Well there you go :
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Flutter animations
