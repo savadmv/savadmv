@@ -29,7 +29,7 @@ Hmm .. Well there you go :
 <img src="/savadmv/savadmv/blob/master/Screen%20Shot%202020-08-01%20at%2012.36.40%20AM.png" width="300">
 
 
-<img src="/savadmv/savadmv/blob/master/Screen%20Shot%202020-08-01%20at%2012.37.16%20AM.png" width="300">
+<img src="/savadmv/savadmv/blob/master/Screen%20Shot%202020-08-01%20at%2012.37.16%20AM.png" width="300" href="https://www.linkedin.com/posts/savadmv333_how-to-install-flutter-in-android-studio-activity-6695037329486282752-vj14">
 
 
 <img src="/savadmv/savadmv/blob/master/Screen%20Shot%202020-08-01%20at%2012.37.50%20AM.png" width="300">
