@@ -17,22 +17,22 @@ Hmm .. Well there you go :
 ##### My Posts
 
 
-<img src="/Screen%20Shot%202020-08-01%20at%2012.32.36%20AM.png" width="300">
+<img src="savadmv/savadmv/blob/master/Screen%20Shot%202020-08-01%20at%2012.32.36%20AM.png" width="300">
 
 
-<img src="/Screen%20Shot%202020-08-01%20at%2012.34.17%20AM.png" width="300">
+<img src="savadmv/savadmv/blob/master/Screen%20Shot%202020-08-01%20at%2012.34.17%20AM.png" width="300">
 
 
-<img src="/Screen%20Shot%202020-08-01%20at%2012.34.55%20AM.png" width="300">
+<img src="savadmv/savadmv/blob/master/Screen%20Shot%202020-08-01%20at%2012.34.55%20AM.png" width="300">
 
 
-<img src="/Screen%20Shot%202020-08-01%20at%2012.36.40%20AM.png" width="300">
+<img src="savadmv/savadmv/blob/master/Screen%20Shot%202020-08-01%20at%2012.36.40%20AM.png" width="300">
 
 
-<img src="/Screen%20Shot%202020-08-01%20at%2012.37.16%20AM.png" width="300">
+<img src="savadmv/savadmv/blob/master/Screen%20Shot%202020-08-01%20at%2012.37.16%20AM.png" width="300">
 
 
-<img src="/Screen%20Shot%202020-08-01%20at%2012.37.50%20AM.png" width="300">
+<img src="savadmv/savadmv/blob/master/Screen%20Shot%202020-08-01%20at%2012.37.50%20AM.png" width="300">
 
 
-<img src="/Screen%20Shot%202020-08-01%20at%2012.38.32%20AM.png" width="300">
+<img src="savadmv/savadmv/blob/master/Screen%20Shot%202020-08-01%20at%2012.38.32%20AM.png" width="300">
